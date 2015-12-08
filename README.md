@@ -27,4 +27,4 @@ Also, it may not find the correct match or have no matches at all.
 **6.Output**
 ![alt tag](https://github.com/DeLaSalleUniversity-Manila/finalproject2015-BananaSpoon/blob/master/device-2015-12-08-181904.png)
 
-#D
+
