@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image Matcher</string>
+    <string name="title_activity_menu_main">MenuMain</string>
+    <string name="title_activity_learn_braille">learn_braille</string>
+</resources>
