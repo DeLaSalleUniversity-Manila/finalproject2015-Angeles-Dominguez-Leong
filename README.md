@@ -5,7 +5,9 @@
 By:Janela Angeles, Joseph Dominguez, Christian Leong
 
 This app translates a braille character into an english letter. As of now, It can only translate from letters A to J.
-Also, it may not find the correct match or have no matches at all. 
+Also, it may not find the correct match or have no matches at all.
+
+Google Play Store link: https://play.google.com/store/apps/details?id=com.cv.christian.imag
 
 **Tutorial on how to match taken photo with stored images**
 
